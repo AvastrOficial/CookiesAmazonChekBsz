@@ -53,3 +53,5 @@ Editar
 2. Haz clic en **"Validar Cookies"**.
 3. Revisa los resultados y el resumen estadístico.
 
+---
+Replit : https://replit.com/@netbsznet/Web-Cheker-Site-BSZ?v=1
