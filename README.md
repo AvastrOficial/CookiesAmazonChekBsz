@@ -2,6 +2,8 @@
 
 Este proyecto es una herramienta web para validar tarjetas de crédito y cookies de Amazon. Proporciona una interfaz fácil de usar para verificar la validez de múltiples tarjetas o cookies simultáneamente.
 
+![Screenshot 2025-06-15 164619](https://github.com/user-attachments/assets/4dc6e040-82e4-4f27-aec6-58e6915f3657)
+
 ---
 
 ## ✨ Características principales
